@@ -2,18 +2,21 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+
 - [burgers2](#burgers2)
-<!-- ![Image](https://media.giphy.com/media/qE8EuaecyLH6U/giphy.gif) -->
-- [Introduction](#Introduction) 
+![Image](https://media.giphy.com/media/qE8EuaecyLH6U/giphy.gif)
+- [Introduction](#Introduction)
+    View how yourself or others are perceived online:
 - [Features](#Features)
 - [Language](#Language)
 - [API's](#API's)
   - [Links](#links)
 
+- [Hmm](#why won't you work)
 
-- (Introduction)
-<p>Paragraphs are separated
-by a blank line.</p>
+- [Introduction]() 
 
 - (Features)
 View how yourself or others are perceived online:
