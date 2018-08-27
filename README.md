@@ -3,7 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [burgers2](#burgers2)![Image](https://media.giphy.com/media/qE8EuaecyLH6U/giphy.gif)
-- [Heading](#Introduction)
+- [Introduction](#Introduction)
 - [Heading](#Features)
 - [Heading](#Language)
 - [Heading](#API's)
