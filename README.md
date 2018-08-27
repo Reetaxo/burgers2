@@ -10,18 +10,18 @@
   - [Links](#links)
 
 
-Introduction:
+- (#Introduction)
  Aptly named, VYBER was designed to get a vibe from one’s online persona. The app we’ve developed allows you to generate how you’re perceived online based on the content you post. This app is beneficial for employers, those meeting people through dating apps or anyone interested in knowing how someone is perceived online.
 
-Features
+- (#Features)
 View how yourself or others are perceived online:
-•	Analyze a users personality 
+<ul>
 •	Analyze a users facial expressions
 •	Interpret a users tone by texts/tweets
 •	Ability to create your own account
 •	Chatbox to communicate with other Vyber users
 •	Search function to view user activity 
-
+</ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- # burgers2
