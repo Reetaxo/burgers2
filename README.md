@@ -16,7 +16,7 @@
 
 - [Hmm](#why won't you work)
 
-- [Introduction]() 
+**Introduction** [Introduction](Aptly named, VYBER was designed to get a vibe from one’s online persona. The app we’ve developed allows you to generate how you’re perceived online based on the content you post. This app is beneficial for employers, those meeting people through dating apps or anyone interested in knowing how someone is perceived online.)
 
 - (Features)
 View how yourself or others are perceived online:
