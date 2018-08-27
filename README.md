@@ -52,4 +52,8 @@ A [link](http://example.com).
 
 > Markdown uses email-style > characters for blockquoting.
 
+<<<<<<< HEAD
 Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported. -->
+=======
+Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
+>>>>>>> 6a91ee44aa067421c4fa75621f2dc8d83e333966
