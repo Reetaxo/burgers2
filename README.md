@@ -3,11 +3,11 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [burgers2](#burgers2)![Image](https://media.giphy.com/media/qE8EuaecyLH6U/giphy.gif)
-- [Introduction](#Introduction)
-- [Heading](#Features)
-- [Heading](#Language)
-- [Heading](#API's)
-  - [Sub-heading](#links)
+- [Introduction](#Introduction Aptly named, VYBER was designed to get a vibe from one’s online persona. The app we’ve developed allows you to generate how you’re perceived online based on the content you post. This app is beneficial for employers, those meeting people through dating apps or anyone interested in knowing how someone is perceived online.)
+- [Features](#Features)
+- [Language](#Language)
+- [API's](#API's)
+  - [Links](#links)
 
 
 
