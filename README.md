@@ -6,11 +6,12 @@
   <!-- <br>
 <br> -->
 
-<h1 text-align="center">
+<h1 text="center">
 <h2>VYBER</h2>
   <br>
       <a href="https://github.com/erin0418/Vyber" target="_blank">
    <img src="https://imageshack.com/a/img924/9259/ZnwqNZ.png" alt="VYBER" title="VYBER"/></a>
+   <p>Built with React🔨</p>
   <br>
 </h1>
 
@@ -21,6 +22,7 @@
 - [API usage](#api-usage)
 - [Language](#language)
 - [Contributors](#contributors)
+- [Copyright](#copyright) 
 
 ## Introduction
 
@@ -56,19 +58,33 @@ Check VYBER's collaborators out:
 <br>
 
 <a href="https://github.com/erin0418" target="_blank">
-    <img src="https://imageshack.com/a/img923/776/acMcwN.png" alt="VYBER" title="VYBER"/></a>
+    <img src="https://imageshack.com/a/img923/776/acMcwN.png" alt="Erin || Full Stack" title="VYBER" image-align="left" vspace="10"/></a>
 
 <a href="https://github.com/RayKilburg" target="_blank">
-   <img src="https://imageshack.com/a/img921/1258/tLVddu.png" alt="VYBER" title="VYBER"/></a>
+   <img src="https://imageshack.com/a/img921/1258/tLVddu.png" alt="Ray || Full Stack" title="VYBER" image-align="left" vspace="10"/></a>
  
 <a href="https://github.com/Mattlomet" target="_blank">
-   <img src="https://imageshack.com/a/img923/5536/jCkAKV.png" alt="VYBER" title="VYBER"/></a>
+   <img src="https://imageshack.com/a/img923/5536/jCkAKV.png" alt="Matt Lomet || Full Stack" title="VYBER" image-align="left" vspace="10"/></a>
 
 <a href="https://github.com/Reetaxo" target="_blank">
-   <img src="https://imageshack.com/a/img923/7995/7Ztjmo.png" alt="VYBER" title="VYBER"/></a>
+   <img src="https://imageshack.com/a/img923/7995/7Ztjmo.png" alt="Syreeta || Full Stack" title="VYBER" image-align="left" vspace="10"/></a>
 
 <a href="https://github.com/mattziegel" target="_blank">
-   <img src="https://imageshack.com/a/img923/8868/AKQGQ8.png" alt="VYBER" title="VYBER"/></a>
+   <img src="https://imageshack.com/a/img923/8868/AKQGQ8.png" alt="Matt Ziegel || Full Stack" title="VYBER" image-align="left" vspace="10"/></a>
+
+
+## Copyright
+center>
+**VYBER thanks you for viewing.**
+<br>
+© 2018 Copyright
+<br>
+
+<a href="https://imageshack.com/a/img923/992/0bTfty.png" target="_blank">
+   <img src="https://imageshack.com/a/img924/9259/ZnwqNZ.png" alt="VYBER" title="VYBER"/></a>
+
+<!-- const VYBER = { } -->
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
