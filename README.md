@@ -54,8 +54,9 @@ VYBER utilizes:
 
 Check VYBER's collaborators out:
 <br>
+
 <a href="https://github.com/erin0418" target="_blank">
-<img src="https://imageshack.com/a/img923/776/acMcwN.png" alt="VYBER" title="VYBER"/></a>
+    <img src="https://imageshack.com/a/img923/776/acMcwN.png" alt="VYBER" title="VYBER"/></a>
 
 <a href="https://github.com/RayKilburg" target="_blank">
    <img src="https://imageshack.com/a/img921/1258/tLVddu.png" alt="VYBER" title="VYBER"/></a>
