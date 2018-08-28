@@ -75,7 +75,7 @@ Check VYBER's collaborators out:
 
 ## Copyright
 <div image="center" text="center">
--> **VYBER thanks you for viewing.** <-
+-> VYBER thanks you for viewing. <-
 
 <br>
 © 2018 Copyright
