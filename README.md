@@ -48,6 +48,7 @@ VYBER utilizes:
 
 ## Contributors
 Check VYBER's collaborators out:
+<br>
       <a href="https://github.com/erin0418" target="_blank">
    <img src="https://imageshack.com/a/img923/776/acMcwN.png" alt="VYBER" title="VYBER"/></a>
 
