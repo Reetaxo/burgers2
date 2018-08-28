@@ -1,7 +1,7 @@
   <br>
     <a href="https://github.com/erin0418/Vyber" target="_blank">
-   <!-- <img src="https://imgur.com/a/4X5p3Ii" alt="VYBER"></a> -->
-   ![Image](https://thumb.ibb.co/hYp83U/image.png)</a>
+   <img src="https://thumb.ibb.co/hYp83U/image.png" alt="VYBER"></a>
+   <!-- ![Image](https://thumb.ibb.co/hYp83U/image.png)</a> -->
    <!-- <a href="https://ibb.co/hYp83U"><img src="https://thumb.ibb.co/hYp83U/image.png" alt="image" border="0" /></a> -->
   <br>
 <br>
