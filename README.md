@@ -1,6 +1,6 @@
   <br>
     <a href="https://github.com/erin0418/Vyber" target="_blank">
-![images](image.png)</a>
+![public/assets/images](image.png)</a>
    <!-- ![Image](https://thumb.ibb.co/hYp83U/image.png)</a> -->
    <!-- <a href="https://ibb.co/hYp83U"><img src="https://thumb.ibb.co/hYp83U/image.png" alt="image" border="0" /></a> -->
   <br>
