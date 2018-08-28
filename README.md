@@ -7,6 +7,7 @@
 <br> --> 
 
 <h1 text-align="center">
+<h2>VYBER</h2>
   <br>
       <a href="https://github.com/erin0418/Vyber" target="_blank">
    <img src="https://imageshack.com/a/img924/9259/ZnwqNZ.png" alt="VYBER" title="VYBER"/></a>
@@ -46,8 +47,26 @@ VYBER utilizes:
 <li>Firebase</li>
 
 ## Contributors
+Check VYBER's collaborators out:
+      <a href="https://github.com/erin0418" target="_blank">
+   <img src="https://imageshack.com/a/img923/776/acMcwN.png" alt="VYBER" title="VYBER"/></a>
 
-lets see
+<a href="https://github.com/RayKilburg" target="_blank">
+   <img src="https://imageshack.com/a/img921/1258/tLVddu.png" alt="VYBER" title="VYBER"/></a>
+
+<a href="https://github.com/RayKilburg" target="_blank">
+   <img src="https://imageshack.com/a/img921/1258/tLVddu.png" alt="VYBER" title="VYBER"/></a>
+ 
+<a href="https://github.com/Mattlomet" target="_blank">
+   <img src="https://imageshack.com/a/img923/5536/jCkAKV.png" alt="VYBER" title="VYBER"/></a>
+
+<a href="https://github.com/Reetaxo" target="_blank">
+   <img src="https://imageshack.com/a/img923/7995/7Ztjmo.png" alt="VYBER" title="VYBER"/></a>
+
+<a href="https://github.com/mattziegel" target="_blank">
+   <img src="https://imageshack.com/a/img923/8868/AKQGQ8.png" alt="VYBER" title="VYBER"/></a>
+
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- # burgers2
