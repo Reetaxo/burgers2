@@ -4,7 +4,7 @@
    <!-- ![Image](https://thumb.ibb.co/hYp83U/image.png)</a> -->
    <!-- <a href="https://ibb.co/hYp83U"><img src="https://thumb.ibb.co/hYp83U/image.png" alt="image" border="0" /></a> -->
   <!-- <br>
-<br> --> 
+<br> -->
 
 <h1 text-align="center">
 <h2>VYBER</h2>
@@ -16,18 +16,20 @@
 
 ## Table of contents
 
-  * [Intorduction](#introduction)
-  * [Features](#features)
-  * [API usage](#api-usage)
-  * [Language](#language)
-  * [Contributors](#contributors)
+- [Intorduction](#introduction)
+- [Features](#features)
+- [API usage](#api-usage)
+- [Language](#language)
+- [Contributors](#contributors)
 
 ## Introduction
 
 Aptly named, VYBER was designed to get a vibe from one’s online persona. The app we’ve developed allows you to generate how you’re perceived online based on the content you post. This app is beneficial for employers, those meeting people through dating apps or anyone interested in knowing how someone is perceived online.
 
 ## Features
+
 View how yourself or others are perceived online:
+
 <ul>
 <li>Analyze a users facial expressions</li>
 <li>Interpret a users tone by text/tweets</li>
@@ -38,7 +40,9 @@ View how yourself or others are perceived online:
 </ul>
 
 ## API usage
+
 VYBER utilizes:
+
 <li>Watson IBM tone analyzer</li>
     <li>https://www.ibm.com/watson/services/tone-analyzer/</li>
 <li>Face plus plus</li>
@@ -47,13 +51,11 @@ VYBER utilizes:
 <li>Firebase</li>
 
 ## Contributors
+
 Check VYBER's collaborators out:
 <br>
-      <a href="https://github.com/erin0418" target="_blank">
-   <img src="https://imageshack.com/a/img923/776/acMcwN.png" alt="VYBER" title="VYBER"/></a>
-
-<a href="https://github.com/RayKilburg" target="_blank">
-   <img src="https://imageshack.com/a/img921/1258/tLVddu.png" alt="VYBER" title="VYBER"/></a>
+<a href="https://github.com/erin0418" target="_blank">
+<img src="https://imageshack.com/a/img923/776/acMcwN.png" alt="VYBER" title="VYBER"/></a>
 
 <a href="https://github.com/RayKilburg" target="_blank">
    <img src="https://imageshack.com/a/img921/1258/tLVddu.png" alt="VYBER" title="VYBER"/></a>
@@ -67,7 +69,6 @@ Check VYBER's collaborators out:
 <a href="https://github.com/mattziegel" target="_blank">
    <img src="https://imageshack.com/a/img923/8868/AKQGQ8.png" alt="VYBER" title="VYBER"/></a>
 
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- # burgers2
@@ -79,10 +80,10 @@ Heading
 Paragraphs are separated
 by a blank line.
 
-Two spaces at the end of a line  
+Two spaces at the end of a line
 produces a line break.
 
-Text attributes _italic_, 
+Text attributes _italic_,
 **bold**, `monospace`.
 
 Horizontal rule:
