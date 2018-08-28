@@ -75,10 +75,14 @@ Check VYBER's collaborators out:
 
 ## Copyright
 <div image="center" text="center">
-**VYBER thanks you for viewing.**
+-> **VYBER thanks you for viewing.** <-
+
 <br>
 © 2018 Copyright
 <br>
+ <p align="center"> 
+    <img src="https://imageshack.com/a/img923/992/0bTfty.png" alt="alternate text">
+ </p>
 
 <a href="https://github.com/erin0418/Vyber" target="_blank">
    <img src="https://imageshack.com/a/img923/992/0bTfty.png" title="VYBER"/></a>
