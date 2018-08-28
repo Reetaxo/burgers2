@@ -1,16 +1,18 @@
-<h1 text-align="center">
   <br>
-        <a href="https://github.com/erin0418/Vyber" target="_blank">
-   <img src="https://imgur.com/a/4X5p3Ii" alt="VYBER" title="VYBER/>
+    <a href="https://github.com/erin0418/Vyber" target="_blank">
+   <!-- <img src="https://imgur.com/a/4X5p3Ii" alt="VYBER"></a> -->
+   ![Image](https://thumb.ibb.co/hYp83U/image.png)</a>
+   <!-- <a href="https://ibb.co/hYp83U"><img src="https://thumb.ibb.co/hYp83U/image.png" alt="image" border="0" /></a> -->
   <br>
-  </h1>
+<br>
+
 ## Table of contents
 
   * [Intorduction](#introduction)
   * [Features](#features)
   * [API usage](#api-usage)
   * [Language](#language)
-
+  * [Contributors](#contributors)
 
 ## Introduction
 
@@ -27,7 +29,7 @@ View how yourself or others are perceived online:
 <li>Search function to view user activity</li>
 </ul>
 
-## Common usage
+## Contributors
 
 lets see
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
