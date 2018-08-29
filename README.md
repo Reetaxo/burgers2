@@ -77,7 +77,9 @@ Check VYBER's collaborators out:
 <br>
  <p align="center"> 
  ** VYBER thanks you for viewing. **
+ <br>
  © 2018 Copyright
+ <br>
  <a href="https://github.com/erin0418/Vyber" target="_blank">
     <img src="https://imageshack.com/a/img923/992/0bTfty.png" alt="alternate text">
  </p>
