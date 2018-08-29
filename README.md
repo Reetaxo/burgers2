@@ -6,12 +6,20 @@
   <!-- <br>
 <br> -->
 
-<h1 text="center">
-<h2>VYBER</h2>
+<!-- <h1 align="center">
   <br>
-      <a href="https://github.com/erin0418/Vyber" target="_blank">
-   <img src="https://imageshack.com/a/img924/9259/ZnwqNZ.png" title="VYBER"/></a>
-   <p>Built with React🔨</p>
+   <img src="https://openclipart.org/image/480px/svg_to_png/287053/1505709521.png&disposition=attachment" alt="Logo ArrayMixer" title="Logo ArrayMixer by  cliparteles ( https://openclipart.org/user-detail/cliparteles )" />
+  <br>
+</h1> -->
+
+<h1 align="center">
+VYBER
+  <br>
+      <!-- <a href="https://github.com/erin0418/Vyber" target="_blank"> -->
+   <img src="https://imageshack.com/a/img924/9259/ZnwqNZ.png" title="VYBER ( https://github.com/erin0418/Vyber )" />
+
+   <!-- </a> -->
+   <h4>Built with React🔨</h4>
   <br>
 </h1>
 
@@ -74,9 +82,9 @@ Check VYBER's collaborators out:
 
 
 ## Copyright
-<br>
+
  <p align="center"> 
- ** VYBER thanks you for viewing. **
+ **VYBER thanks you for viewing.**
  <br>
  © 2018 Copyright
  <br>
